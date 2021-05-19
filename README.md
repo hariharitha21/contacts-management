@@ -1,2 +1,5 @@
-# contacts-management
-A simple contact management app that is written in js
+### contacts-management
+# This is a basic contact management application that can
+* Add a contact to the list
+* View the contact list
+* Remove a contact
